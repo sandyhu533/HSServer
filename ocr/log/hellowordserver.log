@@ -1,0 +1,70 @@
+2019-10月-21 19:52:34 WARN  - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/Users/coconutnut/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/Users/coconutnut/.m2/repository/org/json/json/20160810/json-20160810.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2019-10月-21 19:52:34 INFO  - Starting HellowordApplicationTests on Ss-MacBook-Pro.local with PID 842 (started by coconutnut in /Users/coconutnut/TREE/Midgard/Eclipse/HelloWordServer)
+2019-10月-21 19:52:34 INFO  - No active profile set, falling back to default profiles: default
+2019-10月-21 19:52:36 INFO  - Started HellowordApplicationTests in 2.004 seconds (JVM running for 2.657)
+2019-10月-21 19:52:36 INFO  - HelloWordServer关闭
+2019-10月-21 19:52:36 INFO  - 本次运行时间0.0分钟，处理imageocr请求0个
+2019-10月-21 20:00:33 WARN  - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/Users/coconutnut/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/Users/coconutnut/.m2/repository/org/json/json/20160810/json-20160810.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2019-10月-21 20:00:33 INFO  - Starting HellowordApplicationTests on Ss-MacBook-Pro.local with PID 1082 (started by coconutnut in /Users/coconutnut/TREE/Midgard/Eclipse/HelloWordServer)
+2019-10月-21 20:00:33 INFO  - No active profile set, falling back to default profiles: default
+2019-10月-21 20:00:34 INFO  - Started HellowordApplicationTests in 1.719 seconds (JVM running for 2.335)
+2019-10月-21 20:00:35 INFO  - HelloWordServer关闭
+2019-10月-21 20:00:35 INFO  - 本次运行时间0.0分钟，处理imageocr请求0个
+2019-10月-21 20:03:51 WARN  - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/Users/coconutnut/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/Users/coconutnut/.m2/repository/org/json/json/20160810/json-20160810.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2019-10月-21 20:03:51 INFO  - Starting HellowordApplicationTests on Ss-MacBook-Pro.local with PID 1297 (started by coconutnut in /Users/coconutnut/TREE/Midgard/Eclipse/HelloWordServer)
+2019-10月-21 20:03:51 INFO  - No active profile set, falling back to default profiles: default
+2019-10月-21 20:03:52 INFO  - Started HellowordApplicationTests in 1.618 seconds (JVM running for 2.241)
+2019-10月-21 20:03:52 INFO  - HelloWordServer关闭
+2019-10月-21 20:03:52 INFO  - 本次运行时间0.0分钟，处理imageocr请求0个
+2019-10月-21 20:08:41 WARN  - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/Users/coconutnut/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/Users/coconutnut/.m2/repository/org/json/json/20160810/json-20160810.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2019-10月-21 20:08:41 INFO  - Starting HellowordApplicationTests on Ss-MacBook-Pro.local with PID 1323 (started by coconutnut in /Users/coconutnut/TREE/Midgard/Eclipse/HelloWordServer)
+2019-10月-21 20:08:41 INFO  - No active profile set, falling back to default profiles: default
+2019-10月-21 20:08:42 INFO  - Started HellowordApplicationTests in 1.79 seconds (JVM running for 2.362)
+2019-10月-21 20:08:42 INFO  - HelloWordServer关闭
+2019-10月-21 20:08:42 INFO  - 本次运行时间0.0分钟，处理imageocr请求0个
+2019-10月-21 20:16:39 WARN  - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/Users/coconutnut/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/Users/coconutnut/.m2/repository/org/json/json/20160810/json-20160810.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2019-10月-21 20:16:39 INFO  - Starting HellowordApplicationTests on Ss-MacBook-Pro.local with PID 1451 (started by coconutnut in /Users/coconutnut/TREE/Midgard/Eclipse/HelloWordServer)
+2019-10月-21 20:16:39 INFO  - No active profile set, falling back to default profiles: default
+2019-10月-21 20:16:41 INFO  - Started HellowordApplicationTests in 3.108 seconds (JVM running for 4.371)
+2019-10月-21 20:16:42 INFO  - HelloWordServer关闭
+2019-10月-21 20:16:42 INFO  - 本次运行时间0.0分钟，处理imageocr请求0个
