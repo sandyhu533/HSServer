@@ -1,9 +1,11 @@
 from http.server import BaseHTTPRequestHandler
 import io
 import logging
+import testMain
 
 ABSOLUTE_URL = "/root/HelloSlide/"
-OUTPUT_DEBUG = True
+OUTPUT_DEBUG = False
+
 
 class PostHandler(BaseHTTPRequestHandler):
 
@@ -51,13 +53,17 @@ class PostHandler(BaseHTTPRequestHandler):
         cout.write(fo.read())
         fo.close()
 
+
 def NLP(originFileURL, resultFileURL):
-    logging.debug("here is the nlp process")
+    theMain = testMain.Main(originFileURL, resultFileURL)
+    theMain.writeAndTransform()
+    logging.debug("NLP done...")
 
 
 if __name__ == '__main__':
     logging.basicConfig(level=logging.DEBUG)
     from http.server import HTTPServer
+
     server = HTTPServer(('', 2202), PostHandler)
     logging.debug("------Starting server------")
     server.serve_forever()
