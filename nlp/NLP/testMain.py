@@ -8,10 +8,10 @@ class Main:
     def __init__(self, origin_file_path, result_file_path):
         self.plus_to_choose_onlyWords = 5
         self.plus_to_choose_senAndWords = 1
-        self.output_list = self.writeToList()
-        self.temp_path = "temp.txt"
         self.file_processing = FileProcessing.FileProcessing(origin_file_path, result_file_path)
         self.num_of_part = len(self.file_processing.text_cut_list)
+        self.output_list = self.writeToList()
+        self.temp_path = "temp.txt"
         self.output_file = open(self.temp_path, "w", encoding="utf-8")
 
     def writeToList(self):
