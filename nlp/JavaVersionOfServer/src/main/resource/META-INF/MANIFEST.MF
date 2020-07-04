@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.sandyhu.helloSlide.Server
+Class-Path: libs/log4j-1.2.12.jar libs/jython-2.7.2.jar
+

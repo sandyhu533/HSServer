@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact name="Demo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Demo_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Demo.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/resource/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="Demo" />
+        <element id="directory" name="libs">
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/log4j/log4j/1.2.12/log4j-1.2.12.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/python/jython/2.7.2/jython-2.7.2.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
