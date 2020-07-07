@@ -1,0 +1,80 @@
+{ 
+    "words": [
+    { 
+        "page": [
+        {
+            "content": "毕业论文答辩模板",
+            "type" : 1
+        },
+        {
+            "content": "THESIS DEFENSE POWERPOINT TEMPLATE",
+            "type" : 1
+        },
+        {
+            "content": "李某某",
+            "type" : 2
+        },        
+        {
+            "content": "王某某",
+            "type" : 2
+        }
+        ]
+    },
+    {
+        "page": [
+        {
+            "content": "绪论",
+            "type" : 1
+        },
+        {
+            "content": "研究思路与方法",
+            "type" : 1
+        },
+        {
+            "content": "关键技术与实践难点",
+            "type" : 1
+        },
+        {
+            "content": "研究成果与应用",
+            "type" : 1
+        },
+        {
+            "content": "相关建议与论文总结",
+            "type" : 1
+        },
+        {
+            "content": "选题背景\n研究意义\n国内外相关研究综述\n理论基础与文献综述\n主要贡献与创新",
+            "type" : 2
+        },
+        {
+            "content": "研究思路\n研究方法\n研究方案可行性说明",
+            "type" : 2
+        },
+        {
+            "content": "关键技术\n实践难点\n市场调研分析\n案例对比分析",
+            "type" : 2
+        },
+        {
+            "content": "研究目标\n成果形式\n应用前景",
+            "type" : 2
+        },
+        {
+            "content": "问题评估\n相关对策\n研究总结\n成绩与思考",
+            "type" : 2
+        }
+        ]
+    }
+ {
+        "page": [
+        {
+            "content": "绪论",
+            "type" : 1
+        },
+        {
+            "content": "选题背景\n研究意义\n国内外相关研究综述\n理论基础与文献综述\n主要贡献与创新",
+            "type" : 2
+        }
+        ]
+    }
+    ]
+}

@@ -1,0 +1,159 @@
+{ 
+    "words": [
+    { 
+        "page": [
+        {
+            "content": "项目总结",
+            "type" : 1
+        },
+        {
+            "content": "副标题",
+            "type" : 3
+        },
+        {
+            "content": "团队成员",
+            "type" : 3
+        },
+        {
+            "content": "汇报人",
+            "type" : 3
+        }
+        ]
+    },
+    {
+        "page": [
+        {
+            "content": "目录",
+            "type" : 1
+        },
+        {
+            "content": "竞争分析",
+            "type" : 2
+        },
+        {
+            "content": "针对市场的分析",
+            "type" : 3
+        },
+        {
+            "content": "说明",
+            "type" : 2
+        },
+        {
+            "content": "本项目的具体说明",
+            "type" : 3
+        },
+        {
+            "content": "项目目的",
+            "type" : 2
+        },
+        {
+            "content": "本项目要达成的目标",
+            "type" : 3
+        },
+       
+        {
+            "content": "技术",
+            "type" : 2
+        },
+        {
+            "content": "针对技术手段上的分析",
+            "type" : 3
+        },
+       
+        {
+            "content": "过程",
+            "type" : 2
+        },
+        {
+            "content": "本项目的具体实施过程",
+            "type" : 3
+        }
+        ]
+    },
+    {
+        "page": [
+        {
+            "content": "竞争分析",
+            "type" : 1
+        },
+        {
+            "content": "在此处列出竞争分析或其他相关文档的存储位置或联系人",
+            "type" : 2
+        }
+        ]
+    },
+    {
+        "page": [
+        {
+            "content": "竞争分析",
+            "type" : 1
+        },
+        {
+            "content": "优势",
+            "type" : 2
+        },
+        {
+            "content": "竞争者的具体优势",
+            "type" : 3
+        },
+        {
+            "content": "竞争者",
+            "type" : 3
+        }
+        ,
+        {
+            "content": "优势",
+            "type" : 2
+        },
+        {
+            "content": "与竞争者相比的具体优势",
+            "type" : 3
+        },
+        {
+            "content": "与竞争者相比",
+            "type" : 3
+        }
+        ]
+    }{
+        "page": [
+        {
+            "content": "竞争分战略轮盘",
+            "type" : 1
+        },
+        {
+            "content": "产品系列",
+            "type" : 2
+        },
+        {
+            "content": "对本产品进行具体的介绍",
+            "type" : 3
+        },
+        {
+            "content": "市场目标",
+            "type" : 2
+        }
+        ,
+        {
+            "content": "本产品在市场要达成的成就",
+            "type" : 3
+        },
+        {
+            "content": "市场营销",
+            "type" : 2
+        },
+        {
+            "content": "本产品在市场上的具体营销策略",
+            "type" : 3
+        },
+        {
+            "content": "采购",
+            "type" : 2
+        },
+        {
+            "content": "本产品在市场上的具体采购方案-",
+            "type" : 3
+        }
+        ]
+    }
+    ]
+}
